@@ -1,2 +1,2 @@
 # EEG_Classification
-- EEGTest code (graz dataset 2b)
+- EEGTest code (graz dataset 2b used)
